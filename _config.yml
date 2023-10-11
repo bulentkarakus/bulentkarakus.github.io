@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bulent Karakus, PE"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : ""
   location         : "Mountville-PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
